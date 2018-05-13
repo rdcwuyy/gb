@@ -1,0 +1,8 @@
+.pydevproject
+.project
+
+.vscode/
+Micromonospora_Lupini_gbk/
+assemblies/
+__pycache__/
+www/
